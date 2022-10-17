@@ -37,6 +37,19 @@
     border: 1px solid black;
     width: 580px;
     height: 580px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-wrap: wrap;
+}
+
+.square{
+    width: calc(100% / 8);
+    height: calc(100% / 8);
+    border: 2px solid blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 footer{
