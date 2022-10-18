@@ -14,11 +14,5 @@
             .al click colorare lo square cliccato di azzurro e scrivere in console il numero
         *appendere lo square alla griglia
     -mostrare la griglia
-
-
-
-
-
-
 */
 
